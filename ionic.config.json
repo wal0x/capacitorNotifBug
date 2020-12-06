@@ -1,0 +1,7 @@
+{
+  "name": "notif",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
